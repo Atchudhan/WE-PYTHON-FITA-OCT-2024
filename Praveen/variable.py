@@ -1,6 +1,4 @@
-x='awesome'
-def myfunc():
-    global x
-    x='fanta'
-myfunc()
-print('python is '+ x)
+x,y,z="orange","banana","cherry"
+print(x)
+print(y)
+print(z)
