@@ -18,9 +18,3 @@ print(y)
 Myf1()
 
 print("Here used globally in Outside function",y)
-
-
-
-
-
-
