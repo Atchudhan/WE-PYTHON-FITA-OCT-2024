@@ -1,0 +1,6 @@
+x=int(15.5)
+y=float(3)
+z=str(3)
+print(x)
+print(y)
+print(z)
